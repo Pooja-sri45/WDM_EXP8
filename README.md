@@ -118,4 +118,5 @@ Output:
 
 
 Result:
+
 Thus, To perform Web Scraping on Amazon using (beautifulsoup) Python has been executed successfully.
